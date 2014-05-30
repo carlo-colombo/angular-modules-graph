@@ -1,7 +1,8 @@
 angular-modules-graph
 =====================
 
-Create a graph of angular module definitions
+Create a graph of angular module definitions, extracted from [grunt-angular-modules-graph](https://github.com/carlo-colombo/grunt-angular-modules-graph)
+
 
 ```js
 var scripts = [
