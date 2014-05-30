@@ -1,0 +1,33 @@
+{
+  "name": "angular-modules-graph",
+  "version": "0.0.0",
+  "description": "Create a graph of angular module definitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "angular",
+    "modules",
+    "graph"
+  ],
+  "author": "Carlo Colombo <@lit_car>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carlo-colombo/angular-modules-graph.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carlo-colombo/angular-modules-graph/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/carlo-colombo/angular-modules-graph/blob/master/LICENSE-MIT"
+  }],
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "should": "^3.2.0",
+    "grunt-mocha-test": "^0.10.0",
+    "grunt": "^0.4.4",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
