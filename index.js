@@ -1,4 +1,4 @@
-var angular = require('src/fake-angular')(),
+var angular = require('./src/fake-angular')(),
   document = {}, window = {}, navigator = {};
 
 module.exports = function(scripts) {
