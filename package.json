@@ -1,6 +1,6 @@
 {
   "name": "angular-modules-graph",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create a graph of angular module definitions",
   "main": "index.js",
   "scripts": {
