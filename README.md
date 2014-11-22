@@ -1,3 +1,5 @@
+Dismissed project, use instead https://github.com/lucalanca/angular-architecture-graph
+
 angular-modules-graph
 =====================
 
